@@ -16,6 +16,6 @@ a {
     text-decoration: none;
 }
 
-.button-section > .btn {
+.btn {
     background-color: var(--orange-color);
 }
