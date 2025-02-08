@@ -19,3 +19,6 @@ a {
 .btn {
     background-color: var(--orange-color);
 }
+.h-color {
+    background-color: rgba(255, 166, 0, 0.295);
+}
