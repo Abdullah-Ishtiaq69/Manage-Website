@@ -42,3 +42,7 @@ a {
 .last-section .btn:hover {
     background-color: white !important;
 }
+
+input {
+    border: none !important;
+}
