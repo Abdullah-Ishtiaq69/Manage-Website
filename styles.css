@@ -30,3 +30,15 @@ a {
 .background-card {
     background-color: rgba(128, 128, 128, 0.137);
 }
+
+.last-section {
+    background-color: var(--orange-color);
+}
+
+.last-section .btn {
+    color: var(--orange-color);
+}
+
+.last-section .btn:hover {
+    background-color: white !important;
+}
