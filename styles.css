@@ -22,3 +22,11 @@ a {
 .h-color {
     background-color: rgba(255, 166, 0, 0.295);
 }
+
+.btn:hover {
+    background-color: var(--orange-color) !important;
+}
+
+.background-card {
+    background-color: rgba(128, 128, 128, 0.137);
+}
